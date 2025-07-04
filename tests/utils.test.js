@@ -1,4 +1,4 @@
-const { validateForm } = require('../src/utils');
+const { validateForm } = require('../utils');
 
 describe('Walidacja formularza', () => {
   test('Poprawne dane powinny przejść walidację', () => {
