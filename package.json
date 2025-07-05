@@ -17,6 +17,6 @@
     "jest": "^30.0.4"
   },
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^4.21.2"
   }
 }
